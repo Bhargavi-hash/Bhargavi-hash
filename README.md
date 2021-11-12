@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+<div style="background-img: url("github1.jpeg"); width: 100%; height: 200px; text-align: centre">
+  Hii there
+</div>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
