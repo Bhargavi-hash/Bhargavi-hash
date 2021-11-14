@@ -1,7 +1,7 @@
-Hi there 👋, This is bhargavi. 
+Hi there 👋, Bhargavi here. 
 
 <div style="background-img: url("github1.jpeg"); width: 100%; height: 200px; text-align: centre">
-  Hii there
+  
 </div>
 
 <!--
