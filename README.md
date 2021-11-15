@@ -1,11 +1,11 @@
 # Hi there 👋, Bhargavi here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-<a href="bhatgavi31122018@gmail.com">![Connect with me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
-I am a undergraduate student living in Hyderabad, India. Outside tech, I love to read novels, do painting and skecthing, listen to music, and explore nature outdoors.
+I am a undergraduate student living in Hyderabad, India. 
 
 - <i>Currently:</i> UG CSE Student at International institute of information technology, Hyderabad. 
 
@@ -14,6 +14,15 @@ I am a undergraduate student living in Hyderabad, India. Outside tech, I love to
   - Java
   - React js
 - 👯 I’m looking to forward collaborate on open source projects
+- Outside tech, 
+
+  📖 I love to read novels, 
+
+  🖌️ do painting and skecthing, 
+
+  🎵 listen to music, and 
+
+  🌴 explore nature outdoors.
 
 __Check out my GitHub repository:__
 
