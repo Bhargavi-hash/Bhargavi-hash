@@ -5,7 +5,7 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
-I am a undergraduate student living in Hyderabad, India. 
+I am an undergraduate student living in Hyderabad, India. 
 
 - <i>Currently:</i> UG CSE Student at International institute of information technology, Hyderabad. 
 
@@ -13,7 +13,7 @@ I am a undergraduate student living in Hyderabad, India.
 - 🌱 I’m currently learning ...
   - Java
   - React js
-- 👯 I’m looking to forward collaborate on open source projects
+- 👯 I’m looking forward to collaborate on open source projects
 - Outside tech, 
 
   📖 I love to read novels, 
