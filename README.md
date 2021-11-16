@@ -6,9 +6,7 @@
 -->
 ## About me
 I am an undergraduate student living in Hyderabad, India. 
-
 - <i>Currently:</i> UG CSE Student at International institute of information technology, Hyderabad. 
-
 * **I am interested in Web designing, Android development and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
