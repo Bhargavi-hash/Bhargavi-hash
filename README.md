@@ -5,22 +5,13 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
-I am an undergraduate student living in Hyderabad, India. 
-- <i>Currently:</i> UG CSE Student at International institute of information technology, Hyderabad. 
-* **I am interested in Web designing, Android development and digital marketing**
+I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
   - React js
-- 👯 I’m looking forward to collaborate on open source projects
-- Outside tech, 
-
-  📖 I love to read novels, 
-
-  🖌️ do painting and skecthing, 
-
-  🎵 listen to music, and 
-
-  🌴 explore nature outdoors.
+- 👯 I’m looking forward to collaborate on open source projects.
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 
 __Check out my GitHub repository:__
 
