@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="[https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git](https://github.com/Bhargavi-hash/LUMOS)">
-      LUMOS is an intelligent video processing application that helps content creators automatically identify and extract viral-worthy moments from long-form videos. Using Google's Gemini AI, it analyzes videos and generates optimized clips for different social media platforms (YouTube Shorts, Instagram Reels, and TikTok) along with platform-specific captions.
+      
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=LUMOS" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
