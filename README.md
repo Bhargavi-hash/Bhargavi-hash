@@ -29,8 +29,14 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Bhargavi-hash/LUMOS.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=LUMOS" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="https://github.com/Bhargavi-hash/StoryCrafter.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=StoryCrafter" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Multi-Agentic-Planner.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Multi-Agentic-Planners" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Clash-of-Clans.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Clash-of-Clans" alt="GitHub Stats" />
     </a>
   </p>
 </div>
