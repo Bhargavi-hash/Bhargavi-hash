@@ -9,16 +9,19 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an MS in Computer science student at University of California Santa Barbara currently in my first year. My technical stack involve C, C++, Python, Javascript, Ruby, HTML, CSS, and Shell. I love to learn and build something new, productive, innovative and creative.
-- 🔥 **I am interested in Web designing, Web development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Django
-  - Sqlite
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 🥳 Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+MS in Computer Science @ UC Santa Barbara  
+Builder of systems. Tamer of bugs. Occasional novelist.
 
+I love turning messy ideas into clean software — from cloud pipelines and backend services to AI-powered products. Currently exploring distributed systems, networking, and large-scale backend engineering.
+
+## 🚀 What I’m working on
+
+- Building data pipelines, cloud-native services, and AI applications  
+- Exploring distributed systems, networking fundamentals (TCP/IP), and system design  
+- Developing full-stack and backend projects with a focus on performance and reliability  
+- Contributing to open-source when the stars align ✨
+
+---
 __Check out my GitHub repository:__
 
 <div>
