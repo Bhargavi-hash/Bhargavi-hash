@@ -12,6 +12,8 @@
 MS in Computer Science @ UC Santa Barbara  
 Builder of systems. Tamer of bugs. Occasional novelist.
 
+🌐 **Portfolio:** <a href="https://bhargavi-hash.github.io/">Bhargavi-portfolio</a>
+
 I love turning messy ideas into clean software — from cloud pipelines and backend services to AI-powered products. Currently exploring distributed systems, networking, and large-scale backend engineering.
 
 ## 🚀 What I’m working on
@@ -40,8 +42,3 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&langs_count=12&layout=compact)
