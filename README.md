@@ -35,7 +35,7 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Bhargavi-hash/StoryCrafter.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=StoryCrafter" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Multi-Agentic-Planner.git">
+    <a href="https://github.com/Bhargavi-hash/Multi-Agentic-Planners.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Multi-Agentic-Planners" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Clash-of-Clans.git">
