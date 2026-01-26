@@ -20,7 +20,8 @@ I love turning messy ideas into clean software — from cloud pipelines and back
 
 - Building data pipelines, cloud-native services, and AI applications  
 - Exploring distributed systems, networking fundamentals (TCP/IP), and system design  
-- Developing full-stack and backend projects with a focus on performance and reliability  
+- Developing full-stack and backend projects with a focus on performance and reliability
+- Paticipating in Hackathons
 - Contributing to open-source when the stars align ✨
 
 ---
