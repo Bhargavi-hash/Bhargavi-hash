@@ -27,27 +27,13 @@ I love turning messy ideas into clean software — from cloud pipelines and back
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&theme=radical" alt="Bhargavi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/Bhargavi-hash?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FLos_Angeles" alt="GitHub Stats" />
 </p>
----
 
-__Check out my GitHub repository:__
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/LUMOS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=LUMOS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/StoryCrafter.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=StoryCrafter" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Multi-Agentic-Planners.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Multi-Agentic-Planners" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Clash-of-Clans.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Clash-of-Clans" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash&theme=radical" alt="GitHub Streak" />
+</p>
