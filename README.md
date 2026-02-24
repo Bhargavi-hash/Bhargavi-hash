@@ -25,8 +25,8 @@ I love turning messy ideas into clean software — from cloud pipelines and back
 - Contributing to open-source when the stars align ✨
 
 ## My Github Stats
-![](https://github.com/bhargavi-hash/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/bhargavi-hash/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Bhargavi-hash/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Bhargavi-hash/github-stats/blob/master/generated/languages.svg)
 
 ---
 __Check out my GitHub repository:__
