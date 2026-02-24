@@ -32,6 +32,7 @@ I love turning messy ideas into clean software — from cloud pipelines and back
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ---
+
 __Check out my GitHub repository:__
 
 <div>
