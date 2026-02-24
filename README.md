@@ -27,7 +27,7 @@ I love turning messy ideas into clean software — from cloud pipelines and back
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Bhargavi-hash?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FLos_Angeles" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhargavi-hash&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
