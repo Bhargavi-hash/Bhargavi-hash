@@ -24,10 +24,13 @@ I love turning messy ideas into clean software — from cloud pipelines and back
 - Paticipating in Hackathons
 - Contributing to open-source when the stars align ✨
 
-## My Github Stats
-![](https://github.com/Bhargavi-hash/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Bhargavi-hash/github-stats/blob/master/generated/languages.svg)
+## 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&theme=radical" alt="Bhargavi's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 __Check out my GitHub repository:__
 
